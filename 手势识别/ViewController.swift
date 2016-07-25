@@ -2,7 +2,7 @@
 //2016-7-25
 
 import UIKit
-
+//基础控制器
 class ViewController: UIViewController,UIGestureRecognizerDelegate {
     
     @IBOutlet var im: UIImageView!
