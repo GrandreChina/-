@@ -171,3 +171,4 @@ class ViewController: UIViewController,UIGestureRecognizerDelegate {
     }
 }
 //到这里就差不多
+//今后还得不断学习
