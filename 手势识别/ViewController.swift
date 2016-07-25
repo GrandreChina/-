@@ -13,7 +13,10 @@ class ViewController: UIViewController,UIGestureRecognizerDelegate {
     var imageIndex : Int = 0 //数组下标
     
     
-    
+    //来自three 
+    func three() -> Void {
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         
