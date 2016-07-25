@@ -1,4 +1,6 @@
+
 //2016-7-25
+
 import UIKit
 
 class ViewController: UIViewController,UIGestureRecognizerDelegate {
